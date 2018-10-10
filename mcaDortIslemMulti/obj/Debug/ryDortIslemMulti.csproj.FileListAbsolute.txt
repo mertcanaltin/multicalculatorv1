@@ -1,0 +1,14 @@
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\bin\Debug\ryDortIslemMulti.exe.config
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\bin\Debug\ryDortIslemMulti.exe
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\bin\Debug\ryDortIslemMulti.pdb
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.csprojAssemblyReference.cache
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.bolForm.resources
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.carpForm.resources
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.cikarForm.resources
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.Properties.Resources.resources
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.toplaForm.resources
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.csproj.GenerateResource.cache
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.csproj.CoreCompileInputs.cache
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.exe
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.pdb
+C:\VS\REPOS\3.hafta\ryDortIslemMulti\ryDortIslemMulti\obj\Debug\ryDortIslemMulti.dortIslemAnaForm.resources
